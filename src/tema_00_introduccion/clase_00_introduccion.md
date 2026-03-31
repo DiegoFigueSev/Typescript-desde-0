@@ -21,3 +21,7 @@ Es un superset de javascript
 
 Agarra todo lo de JS y expande sus funcionalidades 
 
+**TYPESCRIPT NO CORRE DIRECTAMENTE EN LA WEB**
+Transpila el codigo a Javascript y lo ejecuta
+
+No solo transpila, nos permite usar caracteristicas muy nuevas
